@@ -17,6 +17,9 @@ public class Car {
     public int getCarNo() {
         return carNo;
     }
+    public int getCarNo1() {
+        return carNo;
+    }
 
     public String getName() {
         return name;
