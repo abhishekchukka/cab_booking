@@ -9,6 +9,10 @@ public class Car {
         this.name = name;
         this.carNo = carNo;
     }
+    // public int getCarNo() {
+    //     return carNo;
+    // }
+
 
     public int getCarNo() {
         return carNo;
