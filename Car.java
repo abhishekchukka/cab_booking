@@ -13,10 +13,7 @@ public class Car {
     public void setExerience(int age){
         experience=age;
     }
-   
-    public int getCarNo() {
-        return carNo;
-    }
+  
     public int getCarNo1() {
         return carNo;
     }
