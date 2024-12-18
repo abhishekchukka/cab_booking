@@ -2,6 +2,7 @@ public class Car {
     private String name;
     private int carNo;
     private int noOfSeats;
+    private int experience;
     // private String mileage;
     // private String servicing;
 
@@ -9,7 +10,10 @@ public class Car {
         this.name = name;
         this.carNo = carNo;
     }
-
+    public void setExerience(int age){
+        experience=age;
+    }
+   
     public int getCarNo() {
         return carNo;
     }
